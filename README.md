@@ -1,5 +1,5 @@
 # Auto-bing-search
-简单发自动搜索python脚本，自动在bing上搜索，可模拟移动端搜索，可用于刷搜索次数/Microsoft Reward等
+简单的自动搜索python脚本，自动在bing上搜索，可模拟移动端搜索，可用于刷搜索次数/Microsoft Reward等
 
 搜索词库来源：[清华大学开放中文词库](http://thuocl.thunlp.org/)
 
