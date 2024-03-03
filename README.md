@@ -29,7 +29,7 @@ pip install requests
 
 在控制台下方输入：`document.cookie`，复制输出的信息（不需要引号）
 
-![img](https://im.scaredcube.tk/file/db5c1a156486c23cb4e4c.png)
+![img](https://imgs.scc.lol/file/db5c1a156486c23cb4e4c.png)
 
 ### 5. 修改账号内容
 
